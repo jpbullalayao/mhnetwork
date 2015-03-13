@@ -15,3 +15,9 @@
 /log/*
 !/log/.keep
 /tmp
+
+/lib/*/.keep
+/test/*/.keep
+/vendor/assets/*/.keep
+/app/*/.keep
+/app/*/*/.keep
